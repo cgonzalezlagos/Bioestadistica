@@ -1347,7 +1347,7 @@ Para realizar este análisis la base de datos debe ser reordenada para agregar u
 
 \pagebreak
 
-#Práctico 10: Bootstrap.
+#Práctico 9: Bootstrap.
 
 ##Caso1
 Se aplicará un bootstrap para establecer los intervalos de confianza de los coeficientes de regresión de un modelo lineal entre el éxito reproductivo de Turnera ulmifolia L. (medido como número de semillas) y características de sus flores (número de flores, producción de néctar y tamaño medio de la corola). 
